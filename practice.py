@@ -1,2 +1,2 @@
 import datetime
-format = '%Y-%m-%d'
+format = '%Y-%m-%d %H:%M:%S'
